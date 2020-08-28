@@ -1,0 +1,14 @@
+﻿  Bird.cpp
+  Config.cpp
+  Game.cpp
+  GeneticAlgorithm.cpp
+D:\Visual Studio Projects\ProjektCpp\ProjektCpp\GeneticAlgorithm.cpp(55,33): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Visual Studio Projects\ProjektCpp\ProjektCpp\GeneticAlgorithm.cpp(139,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Main.cpp
+  MyRectangle.cpp
+  NeuralNetwork.cpp
+  Neuron.cpp
+  Obstacle.cpp
+  Generowanie kodu...
+D:\Visual Studio Projects\ProjektCpp\ProjektCpp\GeneticAlgorithm.cpp(84): warning C4715: "GeneticAlgorithm::pickRandomBird”: niewszystkie ścieżki kodu zwracają wartość
+  ProjektCpp.vcxproj -> D:\Visual Studio Projects\ProjektCpp\Debug\ProjektCpp.exe
